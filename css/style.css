@@ -405,7 +405,6 @@ body {
 }
 
 @media (max-width: 991px) {
-  .about .about-content .images::before,
   .about .about-content .images::after {
     display: none;
   }
